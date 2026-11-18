@@ -37,7 +37,7 @@ The website is optimized for:
 
 ## 🚀 Live Demo
 
-[View Live Website](YOUR-GITHUB-PAGES-LINK)
+[View Live Website](https://pashtanahabib.github.io/VOYAGE-Emerald-Escape/)
 
 ## 📂 Project Structure
 
